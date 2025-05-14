@@ -1,8 +1,8 @@
 # To-Do-List
 ```
-A program that lets you create tasks to do and check them off as you finish.
+This a program that allows you to create lists and complete them
 
 Contributors:
-- Bambi
-- Brandon Crespo
+Brandon Crespo
+Bambi
 ```
