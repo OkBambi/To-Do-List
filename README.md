@@ -21,6 +21,8 @@ SABRINA CARPENTER
 **swapping to dev now for the merge**
 -git checkout dev
 -git merge feature_branch_name
+-git add -A
+-git commit -m [message]
 -git push origin dev
 
 **pull request time**
